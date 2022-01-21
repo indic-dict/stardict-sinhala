@@ -1,1 +1,1 @@
-https://github.com/indic-dict/stardict-sinhala/raw/gh-pages/si-head/en-entries/slobs/carter__2022-01-21_04-44-53Z__8MB.slob  
+https://github.com/indic-dict/stardict-sinhala/raw/gh-pages/si-head/en-entries/slobs/carter__2022-01-21_11-57-22Z__8MB.slob  
